@@ -1,5 +1,4 @@
-# ESP32-CAM Car Gate System
- # 🚗 ESP32-CAM Car Gate System
+# 🚗 ESP32-CAM Car Gate System
 
 An automatic car gate system using **ESP32-CAM**, **IR sensors**, **SG90 Servo Motor**, and integrated with **Firebase Realtime Database** to track car entries and exits with timestamp.
 
